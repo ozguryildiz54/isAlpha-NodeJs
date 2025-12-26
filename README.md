@@ -1,2 +1,1 @@
-# isAlpha-NodeJs
-NodeJs ile girilen degerin sadece harflerden olusup olusmadigini kontrol eder.
+A lightweight utility developed with Node.js that determines whether a given input string consists exclusively of alphabetic characters. This project focuses on input validation logic and regular expression (RegEx) implementation in a backend environment.
